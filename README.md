@@ -27,6 +27,6 @@ Here is the set of technologies, tools, and platforms I use in my projects.
 You can contact me here:
 
 - [alevidalmata@gmail.com](mailto:alevidalmata@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/avidmat0703/)
+- [LinkedIn](www.linkedin.com/in/alexvidal07)
 
 ---
