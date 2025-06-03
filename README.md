@@ -10,11 +10,9 @@ Here is the set of technologies, tools, and platforms I use in my projects.
 
 ## ⚙️ Backend
 ![BackEnd](https://skillicons.dev/icons?i=php,nodejs,python,java)
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/blazor.svg" width="50" height="50" />
 
 ## 🗄️ Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb)
-<img src="https://github.com/user-attachments/assets/11faf23f-4058-45c1-a763-994e9f2ed854" width="50" height="50" />
 
 ## ☁️ DevOps & Cloud
 ![DevOps & Cloud](https://skillicons.dev/icons?i=docker)
