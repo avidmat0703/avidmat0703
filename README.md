@@ -14,7 +14,7 @@ Here is the set of technologies, tools, and platforms I use in my projects.
 ## 🗄️ Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite)
 
-## 🧑‍💻 Tools && Others 
+## 🧑‍💻 Tools & Others 
 ![Tools && Others ](https://skillicons.dev/icons?i=docker,linux,npm,sketchup,stackoverflow,git,github,gitlab,idea,vscode,eclipse,postman,obsidian,discord,gmail)
 
 
